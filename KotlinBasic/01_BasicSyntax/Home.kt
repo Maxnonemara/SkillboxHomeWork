@@ -1,6 +1,6 @@
 fun main() {
-    var firstName: String = "Maxim"
-    var lastName: String = "Maralev"
+    var firstName = "Maxim"
+    var lastName = "Maralev"
     var weight: Float = 90.3f
     var height: Int = 150
     var isChild: Boolean
