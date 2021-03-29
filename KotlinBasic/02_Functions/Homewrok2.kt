@@ -16,6 +16,6 @@ fun solveEquation(a: Int, b: Int, c: Int) : Double {
     x2 = ((-bD - sqrt(aD * bD - 4 * aD * cD)) / 2 * aD)
     println("x1 = $x1 x2 =$x2")
     return x1 + x2
-S
+
 }
 
